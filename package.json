@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "revolt.js": "^7.2.0",
+    "ws": "^8.18.3"
+  }
+}
